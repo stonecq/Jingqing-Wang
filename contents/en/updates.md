@@ -1,0 +1,2 @@
+- [2025.11] Won the National Second-Class Award in the 22nd "Huawei Cup" China Postgraduate Mathematical Modeling Competition
+- [2025.11] Won the University-Level First-Class Scholarship

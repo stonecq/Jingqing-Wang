@@ -5,10 +5,13 @@ home-subtitle: Jingqing Wang&ensp;|&ensp;王鲸清
 
 awards-subtitle: "奖项荣誉"
 experience-subtitle: "经历"
-publications-subtitle: "发表论文"
+publications-subtitle: "论文"
+updates-subtitle: "更新"
+
 nav-home: "首页"
 nav-awards: "奖项"
 nav-experience: "经历"
 nav-publications: "论文"
+nav-updates: "更新"
 
 copyright-text: '&copy; Jingqing Wang. 保留所有权利。'

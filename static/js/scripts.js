@@ -1,6 +1,6 @@
 const content_dir = 'contents/';
 const config_file = 'config.yml';
-const section_names = ['home', 'awards', 'experience', 'publications'];
+const section_names = ['home', 'awards', 'experience', 'publications', 'updates'];
 
 // 默认语言：'en' 或 'zh'
 let currentLang = localStorage.getItem('lang') || 'en';
@@ -24,10 +24,12 @@ function loadConfig() {
                 'awards-subtitle',
                 'experience-subtitle',
                 'publications-subtitle',
+                'updates-subtitle',
                 'nav-home',
                 'nav-awards',
                 'nav-experience',
                 'nav-publications',
+                'nav-updates',
                 'copyright-text'
             ];
 
